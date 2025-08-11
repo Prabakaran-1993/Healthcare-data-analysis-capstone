@@ -48,7 +48,7 @@ The healthcare industry generates vast amounts of data daily. This project analy
 
 ## How to Use This Repository
 
-- **Open `data/healthcare_cleaned.xlsx`** for the cleaned, analysis-ready dataset.
+- **Open `data/Excel Capstone Project_Healthcare Analysis and Insights.xlsx`** for the cleaned, analysis-ready dataset.
 - **Explore the Excel dashboard** for interactivity; use slicers for “Weight Status” and “Diabetes Status” to filter insights.
 
 ---
